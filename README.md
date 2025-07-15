@@ -1,26 +1,38 @@
-# 🌦️ Weather App
+# PRODIGY_WD_Task-05 - Weather Web Application 🌦️
 
-A simple weather application built using HTML, CSS, and JavaScript that fetches real-time weather data using the [OpenWeatherMap API](https://openweathermap.org/api).
+This is **Task 5** for the **Prodigy Infotech Web Development Internship**.
 
-### 📌 Features:
-- Search weather by city name
-- Displays temperature, humidity, wind speed, and weather condition
-- Styled with responsive UI
+## 🌤️ Project Overview
 
-### 🚀 Demo
-**Live Site:** [Click to view](#) _(link will be added if hosted)_
+A clean and functional weather app that lets users:
+- Search any city by name
+- Fetch real-time weather data using **OpenWeatherMap API**
+- Display temperature, condition, humidity, wind, and more
 
-### 📷 Screenshot
-![Screenshot](screenshot.png)
+## 🛠️ Tech Stack
 
-### 🔧 Technologies Used
 - HTML
 - CSS
-- JavaScript (Fetch API)
+- JavaScript (Vanilla)
 - OpenWeatherMap API
 
-### 📁 Folder Structure
-weather-app/
+## 🎯 Features
+
+- Search weather by city name
+- Displays temperature, weather conditions, humidity, wind speed
+- Beautiful and responsive UI
+- Error handling for invalid cities
+
+## 🚀 Live Demo
+
+👉 [View Online](https://soumyajitpaul748.github.io/PRODIGY_WD_Task-05/)
+
+## 🧪 API Used
+
+- [OpenWeatherMap API](https://openweathermap.org/api) (Free tier)
+
+## 📂 Project Structure
+PRODIGY_WD_Task-05/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -30,4 +42,6 @@ weather-app/
 
 **Soumyajit Paul**  
 B.Tech CSE (Data Science), MCKV Institute of Engineering  
-📫 [Email](mailto:soumyajitpaul748@gmail.com) | 🌐 [Portfolio](https://soumyajitpaul748.github.io/portfolio-website/)  
+📫 [Email](mailto:soumyajitpaul748@gmail.com)  
+🌐 [Portfolio](https://soumyajitpaul748.github.io/portfolio-website/)
+
